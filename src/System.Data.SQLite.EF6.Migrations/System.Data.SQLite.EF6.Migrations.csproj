@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net45</TargetFramework>
+    <Version>1.0.113</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Entity framework 6.x migration provider for SQLite</Description>
   </PropertyGroup>
 
   <ItemGroup>
